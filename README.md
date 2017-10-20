@@ -72,6 +72,6 @@ var run = function() {
 
 ## License
 
-**Code released under [the MIT license](https://github.com/bitpay/bitcore/blob/master/LICENSE).**
+**Code released under [the MIT license](https://github.com/bitchk-wallet/bitcore/blob/master/LICENSE).**
 
 Copyright 2013-2014 BitPay, Inc.
